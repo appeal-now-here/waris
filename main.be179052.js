@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "detailed_video.mp4",
+                                        src: "https://cdn.glitch.global/36969c15-fa1b-4648-8470-0c0797d1f3cf/WhatsApp%20Video%202025-01-12%20at%2018.39.23_f0934711%20(1).mp4?v=1736704338864",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
